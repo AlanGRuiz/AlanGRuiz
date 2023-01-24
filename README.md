@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">A passionate engineering student.</h3>
 
-- 🌱 I’m currently learning the ropes of **Fullstack developing at Launch X, and Azure**
+- 🌱 I’m currently learning the ropes of **Fullstack developing**
 
 - 📫 How to reach me **alan_enriquegr@hotmail.com**
 
